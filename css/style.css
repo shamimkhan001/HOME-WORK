@@ -1,0 +1,77 @@
+.layout1,.layout2{
+	background-color: #dddddd;
+	padding:30px 40px 50px;
+}
+.logo1{
+	height: 40px;
+	background-color: #bababa;
+	text-align: center;
+	line-height: 40px;
+}
+.navigation1{
+	height: 30px;
+	background-color: #bababa;
+	text-align: center;
+	line-height: 30px;
+}
+.header1,.header2{
+	height: 70px;
+	background-color: #bababa;
+	text-align: center;
+	line-height: 70px;
+}
+.container{
+	overflow: hidden;
+}
+.sidebar1{
+	height: 350px;
+	background-color: #bababa;
+	width:35%;
+	float: left;
+	line-height: 350px;
+	text-align: center;
+}
+.bodyarea1{
+	height: 350px;
+	background-color: #bababa;
+	width: 63%;
+	float: right;
+	line-height: 350px;
+	text-align: center;
+}
+.footer1{
+	height: 35px;
+	background-color: #bababa;
+	text-align: center;
+	line-height: 35px;
+}
+.container2{
+	overflow: hidden;
+}
+.logo2{
+	height: 50px;
+	background-color: #bababa;
+	width:50%;
+	float: left;
+	line-height: 5px;
+	text-align: left;
+}
+.navigation2{
+	height: 50px;
+	background-color: #bababa;
+	width:50%;
+	float: right;
+	line-height: 5px;
+	text-align: right;
+}
+.intro text area{
+    height: 50px;
+	background-color: #bababa;
+	text-align: center;
+	line-height: 50px;
+}
+
+
+
+
+	
